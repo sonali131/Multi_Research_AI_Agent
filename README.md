@@ -129,7 +129,7 @@ Persistent memory (vector DB)
 Multi-user support
 Advanced evaluation metrics
 Autonomous long-horizon agents
-👩‍💻 Author
 
+👩‍💻 Author
 Sonali Mishra
-🔗 GitHub: https://github.com/sonali131 image nahi show ho raha hai
+🔗 GitHub: https://github.com/sonali131
